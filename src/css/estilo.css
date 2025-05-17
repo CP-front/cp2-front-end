@@ -260,14 +260,12 @@ tbody tr:nth-child(even) {
 }
 
 .contato-main h2 {
-    font-family: "Irish Grover", system-ui;
     font-size: 3.4rem;
     margin-bottom: 0.4rem;
-    color: #FFAE00;
+    color: #FFD600;
 }
 
 .contato-main p {
-    font-family: "Irish Grover", system-ui;
     color: #102116;
     font-size: 1.0rem;
     margin-bottom: 0.7rem;
@@ -283,7 +281,6 @@ form {
 }
 
 form label {
-    font-family: "Irish Grover", system-ui;
     font-size: 1rem;
     display: block;
     margin-top: 1rem;
