@@ -1,4 +1,12 @@
-*{
-    background: rgb(136, 27, 27);
-    
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+
+.irish-grover-regular {
+  font-family: "Irish Grover", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
