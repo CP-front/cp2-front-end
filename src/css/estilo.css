@@ -301,7 +301,7 @@ form button:hover {
 }
 
 /* responsividade */
-@media(width <= 1024px){
+/* @media(width <= 1024px){ */
 /* .header{
     width: 100%;
     height: 100vh;
@@ -354,5 +354,4 @@ form button:hover {
     .contato-main{
         grid-template-columns: 1fr;
     }
-}
 }
